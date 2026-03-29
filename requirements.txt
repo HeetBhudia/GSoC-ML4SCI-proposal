@@ -1,0 +1,17 @@
+# SciVision-Agent Dependencies
+
+# 1. Core Orchestration & Agent Logic
+langgraph>=0.0.26
+langchain-core>=0.1.40
+crewai>=0.28.0
+
+# 2. High Energy Physics (3D PointNet++ & Tensors)
+torch>=2.2.0
+torch-geometric>=2.5.0
+numpy>=1.26.0
+pandas>=2.1.0
+
+# 3. Astrophysics (FITS Processing & YOLOv10)
+astropy>=6.0.0
+ultralytics>=8.1.0
+opencv-python>=4.8.0
